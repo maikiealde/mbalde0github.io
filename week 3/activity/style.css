@@ -1,0 +1,34 @@
+body {
+    background-color: #16365d;
+}
+
+.head1{
+    text-align: right;
+    color: white;
+}
+p {
+    color:red;
+    color:white;
+    color:blueviolet;
+    color:white;
+    color:white
+}
+.head2 {
+    text-align: center;
+    color: red;
+}
+.head3 {
+    text-align: left;
+    color: white;
+    background-color: black;
+    font-size: 30px;
+}
+.head4 {
+    text-align: left;
+    color: lightgreen;
+}
+p {
+    color: white;
+}
+
+
